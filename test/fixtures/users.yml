@@ -1,0 +1,23 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  id: 
+  name: MyString
+  email: MyString
+  lat: 1.5
+  lng: 1.5
+  date_last_connection: 2016-07-14 21:30:33
+  password_digest: MyString
+  token: MyString
+  imageid: 
+
+two:
+  id: 
+  name: MyString
+  email: MyString
+  lat: 1.5
+  lng: 1.5
+  date_last_connection: 2016-07-14 21:30:33
+  password_digest: MyString
+  token: MyString
+  imageid: 
